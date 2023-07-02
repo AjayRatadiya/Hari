@@ -38,6 +38,7 @@ h1{
     color: aqua;
     position: absolute;
     top:400px;
+    text-shadow: 2px 2px 2px black;
 }
 section{
     background-color: rgb(45, 45, 45);
